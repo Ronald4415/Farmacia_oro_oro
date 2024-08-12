@@ -1,0 +1,51 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	
+}
+
+.formulario_reg
+{
+	width: 400px;
+	background-color: hsl(130, 49%, 78%);
+	padding: 30px;
+	margin: auto;
+	margin-top: 70px;
+
+	border-radius: 6px;
+	font-family: calibry;
+	color: #353232;
+
+}
+
+.formulario_reg h2
+{
+	font-size: 22px;
+	margin-bottom: 25px;
+}
+
+.controles
+{
+	width: 100%;
+	background-color: #C7E5E3;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 15px;
+	border-radius: 1px solid #000000;
+	font-family: calibry;
+	font-size: 18px;
+	color:#050000;
+}
+
+.formulario_reg .boton
+{
+	width: 100%;
+	background-color:hsl(101, 79%, 72%);
+	border-radius: none;
+	padding: 12px;
+	color: #000000;
+	margin: 16px 0;
+	font-size: 18px;
+}
